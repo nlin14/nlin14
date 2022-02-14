@@ -1,6 +1,6 @@
- Masters Student in Applied Data Science Program at Syracuse University
- University of Chicago '21 Business Economics & Comparative Human Development
- Currently based in nyc
+- Masters Student in Applied Data Science Program at Syracuse University
+- University of Chicago '21 Business Economics & Comparative Human Development
+- Currently based in nyc
 
 
 <!---
