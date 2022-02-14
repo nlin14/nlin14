@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nora
-- 👀 I currently live in NYC!
-- 🌱 This is my second semester in the Applied Data Science Program
+ Masters Student in Applied Data Science Program at Syracuse University
+ University of Chicago '21 Business Economics & Comparative Human Development
+ Currently based in nyc
 
 
 <!---
